@@ -8,7 +8,7 @@ sections:
   label: Posts
   create: all
 upload_dir: ''
-public_path: ''
+public_path: https://res.cloudinary.com/voronezhxyz/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: 'https://res.cloudinary.com/voronezhxyz/image/upload/:filename:'
