@@ -8,10 +8,10 @@ sections:
   label: Posts
   create: all
 upload_dir: ''
-public_path: https://res.cloudinary.com/voronezhxyz/image/upload
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
-file_template: 'https://res.cloudinary.com/voronezhxyz/image/upload/:filename:'
+file_template: ":filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
