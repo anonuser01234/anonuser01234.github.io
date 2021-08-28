@@ -1,0 +1,10 @@
+# main links at up of the page
+main:
+  - title: "Публикации по годам"
+    url: /posts/
+  - title: "Категории"
+    url: /categories/
+  - title: "Тэги"
+    url: /tags/
+  - title: "Обратная связь"
+    url: /about/
