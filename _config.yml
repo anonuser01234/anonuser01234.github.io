@@ -16,7 +16,7 @@
 locale: "ru"
 logo:  "/assets/images/v.png"
 url: "https://voronezh.xyz"
-title: Новости Воронеж
+title: В Воронеже
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Новости Воронеж | Все о Воронеже.
