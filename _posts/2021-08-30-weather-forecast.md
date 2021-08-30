@@ -2,8 +2,8 @@
 title: Прогноз погоды в Воронеже на 31 августа.
 tagline: "Последний день лета порадует воронежцев теплом"
 header:
-    overlay_image: "assets\images\oblaka.png"
-    teaser: "assets\images\oblaka.png"
+    overlay_image: "/assets/images/oblaka.png"
+    teaser: "/assets/images/oblaka.png"
 excerpt: "Последний день лета порадует воронежцев теплом"
 categories:
 - weather
